@@ -48,7 +48,7 @@ for (var i = 0; i < document.querySelectorAll(".drum").length; i++) {
                 
                 break;
         
-            default: console.log(innerHTML)
+            default: console.log(buttonInnerHTMl)
                 break;
         }
 
